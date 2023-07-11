@@ -7,13 +7,13 @@ The business problem this project tackles is the accurate prediction of house pr
 ## Project Structure
 The project is divided into multiple Jupyter notebooks each focusing on a different aspect of the data science workflow:
 
-1. Notebook 1: Data Exploration and SQL Processing - This notebook includes loading, exploring, and basic processing of the dataset using SQL.
+1. "Data Exploration and SQL Processing" - This notebook includes loading, exploring, and basic processing of the dataset using SQL.
 
-2. Notebook 2: Big Data Processing with Apache Spark - This notebook uses Spark for further data processing and preparation for modelling.
+2. "Big Data Processing with Apache Spark" - This notebook uses Spark for further data processing and preparation for modelling.
 
-3. Notebook 3: Modelling and Deep Learning with TensorFlow - In this notebook, we use TensorFlow to build and train predictive models, starting from a simple regression model and gradually increasing complexity with deep learning techniques.
+3. "Modelling and Deep Learning with TensorFlow" - In this notebook, we use TensorFlow to build and train predictive models, starting from a simple regression model and gradually increasing complexity with deep learning techniques.
 
-4. Notebook 4: Model Evaluation and Optimization - The last notebook is dedicated to evaluating the performance of the model(s) and optimizing them if necessary.
+4. "Model Evaluation and Optimization" - The last notebook is dedicated to evaluating the performance of the model(s) and optimizing them if necessary.
 
 ## Technological Stack
 The project utilizes several technologies, frameworks, and libraries:
